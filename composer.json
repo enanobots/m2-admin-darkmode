@@ -1,0 +1,45 @@
+{
+  "name": "enanobots/m2-admin-darkmode",
+  "type": "magento2-theme",
+  "license": "OSL-3.0",
+  "authors": [
+    {
+      "name": "Sebastian Strojwas",
+      "email": "sebastian@qsolutionsstudio.com"
+    },
+    {
+      "name": "Przemysław Jankowski",
+      "email": "przemek@qsolutionsstudio.com"
+    },
+    {
+      "name": "Jakub Winkler",
+      "email": "jwinkler@qsolutionsstudio.com"
+    }
+  ],
+  "description": "Magento 2 Admin Dark Theme",
+  "homepage": "https://github.com/enanobots/m2-admin-darkmode",
+  "keywords": [
+    "magento",
+    "magento2",
+    "admin theme",
+    "dark mode",
+    "backend"
+  ],
+  "require": {
+    "magento/framework": ">=102.0.0",
+    "magento/module-backend": ">=101.0.0"
+  },
+  "autoload": {
+    "files": [
+      "src/module-nanobots-core/registration.php",
+      "src/module-nanobots-darkmode/registration.php",
+      "src/theme-adminhtml-darkmode/registration.php"
+    ],
+    "psr-4": {
+      "Nanobots\\Core\\": "src/module-magespices-core",
+      "Nanobots\\DarkMode\\": "src/module-magespices-mage2dark"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

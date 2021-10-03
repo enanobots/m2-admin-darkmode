@@ -36,8 +36,8 @@
       "src/theme-adminhtml-darkmode/registration.php"
     ],
     "psr-4": {
-      "Nanobots\\Core\\": "src/module-magespices-core",
-      "Nanobots\\DarkMode\\": "src/module-magespices-mage2dark"
+      "Nanobots\\Core\\": "src/module-nanobots-core-core",
+      "Nanobots\\DarkMode\\": "src/module-nanobots-darkmode"
     }
   },
   "minimum-stability": "dev",

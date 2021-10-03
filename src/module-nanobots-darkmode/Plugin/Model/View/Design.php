@@ -8,7 +8,7 @@ use Magento\Framework\Stdlib\DateTime\TimezoneInterface;
 
 class Design
 {
-    const BASE_CONFIG_PATH = "DarkMode/settings/";
+    const BASE_CONFIG_PATH = "darkmode/settings/";
 
     protected $scopeConfig;
 

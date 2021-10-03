@@ -11,12 +11,12 @@
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
     <default>
-        <DarkMode>
+        <darkmode>
             <settings>
                 <theme_selection>dark</theme_selection>
                 <light_theme_time_from>420</light_theme_time_from>
                 <light_theme_time_to>1140</light_theme_time_to>
             </settings>
-        </DarkMode>
+        </darkmode>
     </default>
 </config>

@@ -6,13 +6,13 @@
  *
  * @package  Nanobots_DarkMode
  * @author   Jakub Winkler <jwinkler@qsolutionsstudio.com> @MagentoNinja
- * @author	Przemysław Jankowski <przemek@qsolutionsstudio.com>
+ * @author	 Przemysław Jankowski <przemek@qsolutionsstudio.com>
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
-        <section id="DarkMode">
+        <section id="darkmode">
             <group id="settings">
                 <field id="theme_selection" translate="label comment" type="select" sortOrder="20" showInDefault="1">
                     <label>Theme Selection</label>

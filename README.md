@@ -25,7 +25,7 @@ Settings\
 ## Installation: 
 
 ```  
- composer require nanobots/m2-admin-dark 
+ composer require nanobots/m2-admin-darkmode
 ``` 
 
 and run:

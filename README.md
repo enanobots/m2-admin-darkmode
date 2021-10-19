@@ -1,7 +1,7 @@
  ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)
 
 ### Magento 2 - Dark Mode for Admin Panel
-This is a continuation of this project: https://github.com/magespices/mage2nostalgia
+This is a continuation of this project: https://github.com/magespices/mage2dark
 
 ### Demo:
 https://darkmode.nanobots.info
